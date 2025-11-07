@@ -1,0 +1,668 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 28.647437 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 28.647437 
+        intervals: size = 81 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.49 
+            text = "in" 
+        intervals [2]:
+            xmin = 0.49 
+            xmax = 0.71 
+            text = "nineteen" 
+        intervals [3]:
+            xmin = 0.71 
+            xmax = 0.8 
+            text = "seventy" 
+        intervals [4]:
+            xmin = 0.8 
+            xmax = 1.18 
+            text = "six" 
+        intervals [5]:
+            xmin = 1.18 
+            xmax = 1.38 
+            text = "democratic" 
+        intervals [6]:
+            xmin = 1.38 
+            xmax = 1.71 
+            text = "governor" 
+        intervals [7]:
+            xmin = 1.71 
+            xmax = 1.93 
+            text = "michael" 
+        intervals [8]:
+            xmin = 1.93 
+            xmax = 2.03 
+            text = "dukakis" 
+        intervals [9]:
+            xmin = 2.03 
+            xmax = 2.2 
+            text = "fulfilled" 
+        intervals [10]:
+            xmin = 2.2 
+            xmax = 2.75 
+            text = "a" 
+        intervals [11]:
+            xmin = 2.75 
+            xmax = 2.86 
+            text = "campaign" 
+        intervals [12]:
+            xmin = 2.86 
+            xmax = 3.36 
+            text = "promise" 
+        intervals [13]:
+            xmin = 3.36 
+            xmax = 3.64 
+            text = "" 
+        intervals [14]:
+            xmin = 3.64 
+            xmax = 4.02 
+            text = "to" 
+        intervals [15]:
+            xmin = 4.02 
+            xmax = 4.4 
+            text = "depoliticize" 
+        intervals [16]:
+            xmin = 4.4 
+            xmax = 4.67 
+            text = "judicial" 
+        intervals [17]:
+            xmin = 4.67 
+            xmax = 5.48 
+            text = "appointments" 
+        intervals [18]:
+            xmin = 5.48 
+            xmax = 5.67 
+            text = "he" 
+        intervals [19]:
+            xmin = 5.67 
+            xmax = 7.11 
+            text = "named" 
+        intervals [20]:
+            xmin = 7.11 
+            xmax = 7.36 
+            text = "republican" 
+        intervals [21]:
+            xmin = 7.36 
+            xmax = 7.5 
+            text = "edward" 
+        intervals [22]:
+            xmin = 7.5 
+            xmax = 7.75 
+            text = "hennessy" 
+        intervals [23]:
+            xmin = 7.75 
+            xmax = 8.07 
+            text = "" 
+        intervals [24]:
+            xmin = 8.07 
+            xmax = 8.17 
+            text = "to" 
+        intervals [25]:
+            xmin = 8.17 
+            xmax = 8.44 
+            text = "head" 
+        intervals [26]:
+            xmin = 8.44 
+            xmax = 8.64 
+            text = "the" 
+        intervals [27]:
+            xmin = 8.64 
+            xmax = 8.8 
+            text = "state" 
+        intervals [28]:
+            xmin = 8.8 
+            xmax = 8.97 
+            text = "supreme" 
+        intervals [29]:
+            xmin = 8.97 
+            xmax = 9.12 
+            text = "judicial" 
+        intervals [30]:
+            xmin = 9.12 
+            xmax = 9.24 
+            text = "court" 
+        intervals [31]:
+            xmin = 9.24 
+            xmax = 9.35 
+            text = "for" 
+        intervals [32]:
+            xmin = 9.35 
+            xmax = 9.54 
+            text = "hennessy" 
+        intervals [33]:
+            xmin = 9.54 
+            xmax = 10.11 
+            text = "it" 
+        intervals [34]:
+            xmin = 10.11 
+            xmax = 10.29 
+            text = "was" 
+        intervals [35]:
+            xmin = 10.29 
+            xmax = 10.47 
+            text = "another" 
+        intervals [36]:
+            xmin = 10.47 
+            xmax = 10.92 
+            text = "step" 
+        intervals [37]:
+            xmin = 10.92 
+            xmax = 11.08 
+            text = "along" 
+        intervals [38]:
+            xmin = 11.08 
+            xmax = 11.36 
+            text = "a" 
+        intervals [39]:
+            xmin = 11.36 
+            xmax = 11.89 
+            text = "distinguished" 
+        intervals [40]:
+            xmin = 11.89 
+            xmax = 12.21 
+            text = "career" 
+        intervals [41]:
+            xmin = 12.21 
+            xmax = 13.05 
+            text = "" 
+        intervals [42]:
+            xmin = 13.05 
+            xmax = 13.22 
+            text = "that" 
+        intervals [43]:
+            xmin = 13.22 
+            xmax = 13.71 
+            text = "began" 
+        intervals [44]:
+            xmin = 13.71 
+            xmax = 14.1 
+            text = "as" 
+        intervals [45]:
+            xmin = 14.1 
+            xmax = 14.61 
+            text = "a" 
+        intervals [46]:
+            xmin = 14.61 
+            xmax = 15.06 
+            text = "trial" 
+        intervals [47]:
+            xmin = 15.06 
+            xmax = 15.47 
+            text = "lawyer" 
+        intervals [48]:
+            xmin = 15.47 
+            xmax = 15.68 
+            text = "and" 
+        intervals [49]:
+            xmin = 15.68 
+            xmax = 16.11 
+            text = "led" 
+        intervals [50]:
+            xmin = 16.11 
+            xmax = 16.48 
+            text = "" 
+        intervals [51]:
+            xmin = 16.48 
+            xmax = 16.57 
+            text = "to" 
+        intervals [52]:
+            xmin = 16.57 
+            xmax = 16.74 
+            text = "an" 
+        intervals [53]:
+            xmin = 16.74 
+            xmax = 18.07 
+            text = "appointment" 
+        intervals [54]:
+            xmin = 18.07 
+            xmax = 18.17 
+            text = "" 
+        intervals [55]:
+            xmin = 18.17 
+            xmax = 18.83 
+            text = "as" 
+        intervals [56]:
+            xmin = 18.83 
+            xmax = 19.1 
+            text = "associate" 
+        intervals [57]:
+            xmin = 19.1 
+            xmax = 19.24 
+            text = "supreme" 
+        intervals [58]:
+            xmin = 19.24 
+            xmax = 19.35 
+            text = "court" 
+        intervals [59]:
+            xmin = 19.35 
+            xmax = 20.25 
+            text = "justice" 
+        intervals [60]:
+            xmin = 20.25 
+            xmax = 20.55 
+            text = "in" 
+        intervals [61]:
+            xmin = 20.55 
+            xmax = 21.66 
+            text = "nineteen" 
+        intervals [62]:
+            xmin = 21.66 
+            xmax = 21.84 
+            text = "seventy" 
+        intervals [63]:
+            xmin = 21.84 
+            xmax = 22.08 
+            text = "one" 
+        intervals [64]:
+            xmin = 22.08 
+            xmax = 22.18 
+            text = "that" 
+        intervals [65]:
+            xmin = 22.18 
+            xmax = 22.37 
+            text = "year" 
+        intervals [66]:
+            xmin = 22.37 
+            xmax = 22.63 
+            text = "thomas" 
+        intervals [67]:
+            xmin = 22.63 
+            xmax = 23.19 
+            text = "" 
+        intervals [68]:
+            xmin = 23.19 
+            xmax = 23.37 
+            text = "maffy" 
+        intervals [69]:
+            xmin = 23.37 
+            xmax = 23.53 
+            text = "now" 
+        intervals [70]:
+            xmin = 23.53 
+            xmax = 24.35 
+            text = "president" 
+        intervals [71]:
+            xmin = 24.35 
+            xmax = 24.54 
+            text = "of" 
+        intervals [72]:
+            xmin = 24.54 
+            xmax = 24.99 
+            text = "the" 
+        intervals [73]:
+            xmin = 24.99 
+            xmax = 25.15 
+            text = "massachusetts" 
+        intervals [74]:
+            xmin = 25.15 
+            xmax = 25.86 
+            text = "bar" 
+        intervals [75]:
+            xmin = 25.86 
+            xmax = 26.61 
+            text = "association" 
+        intervals [76]:
+            xmin = 26.61 
+            xmax = 26.86 
+            text = "was" 
+        intervals [77]:
+            xmin = 26.86 
+            xmax = 27.2 
+            text = "" 
+        intervals [78]:
+            xmin = 27.2 
+            xmax = 27.37 
+            text = "hennessys" 
+        intervals [79]:
+            xmin = 27.37 
+            xmax = 28.05 
+            text = "law" 
+        intervals [80]:
+            xmin = 28.05 
+            xmax = 28.28 
+            text = "clerk" 
+        intervals [81]:
+            xmin = 28.28 
+            xmax = 28.647437 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phones" 
+        xmin = 0 
+        xmax = 28.647437 
+        intervals: size = 81 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.49 
+            text = "spn" 
+        intervals [2]:
+            xmin = 0.49 
+            xmax = 0.71 
+            text = "spn" 
+        intervals [3]:
+            xmin = 0.71 
+            xmax = 0.8 
+            text = "spn" 
+        intervals [4]:
+            xmin = 0.8 
+            xmax = 1.18 
+            text = "spn" 
+        intervals [5]:
+            xmin = 1.18 
+            xmax = 1.38 
+            text = "spn" 
+        intervals [6]:
+            xmin = 1.38 
+            xmax = 1.71 
+            text = "spn" 
+        intervals [7]:
+            xmin = 1.71 
+            xmax = 1.93 
+            text = "spn" 
+        intervals [8]:
+            xmin = 1.93 
+            xmax = 2.03 
+            text = "spn" 
+        intervals [9]:
+            xmin = 2.03 
+            xmax = 2.2 
+            text = "spn" 
+        intervals [10]:
+            xmin = 2.2 
+            xmax = 2.75 
+            text = "spn" 
+        intervals [11]:
+            xmin = 2.75 
+            xmax = 2.86 
+            text = "spn" 
+        intervals [12]:
+            xmin = 2.86 
+            xmax = 3.36 
+            text = "spn" 
+        intervals [13]:
+            xmin = 3.36 
+            xmax = 3.64 
+            text = "" 
+        intervals [14]:
+            xmin = 3.64 
+            xmax = 4.02 
+            text = "spn" 
+        intervals [15]:
+            xmin = 4.02 
+            xmax = 4.4 
+            text = "spn" 
+        intervals [16]:
+            xmin = 4.4 
+            xmax = 4.67 
+            text = "spn" 
+        intervals [17]:
+            xmin = 4.67 
+            xmax = 5.48 
+            text = "spn" 
+        intervals [18]:
+            xmin = 5.48 
+            xmax = 5.67 
+            text = "spn" 
+        intervals [19]:
+            xmin = 5.67 
+            xmax = 7.11 
+            text = "spn" 
+        intervals [20]:
+            xmin = 7.11 
+            xmax = 7.36 
+            text = "spn" 
+        intervals [21]:
+            xmin = 7.36 
+            xmax = 7.5 
+            text = "spn" 
+        intervals [22]:
+            xmin = 7.5 
+            xmax = 7.75 
+            text = "spn" 
+        intervals [23]:
+            xmin = 7.75 
+            xmax = 8.07 
+            text = "" 
+        intervals [24]:
+            xmin = 8.07 
+            xmax = 8.17 
+            text = "spn" 
+        intervals [25]:
+            xmin = 8.17 
+            xmax = 8.44 
+            text = "spn" 
+        intervals [26]:
+            xmin = 8.44 
+            xmax = 8.64 
+            text = "spn" 
+        intervals [27]:
+            xmin = 8.64 
+            xmax = 8.8 
+            text = "spn" 
+        intervals [28]:
+            xmin = 8.8 
+            xmax = 8.97 
+            text = "spn" 
+        intervals [29]:
+            xmin = 8.97 
+            xmax = 9.12 
+            text = "spn" 
+        intervals [30]:
+            xmin = 9.12 
+            xmax = 9.24 
+            text = "spn" 
+        intervals [31]:
+            xmin = 9.24 
+            xmax = 9.35 
+            text = "spn" 
+        intervals [32]:
+            xmin = 9.35 
+            xmax = 9.54 
+            text = "spn" 
+        intervals [33]:
+            xmin = 9.54 
+            xmax = 10.11 
+            text = "spn" 
+        intervals [34]:
+            xmin = 10.11 
+            xmax = 10.29 
+            text = "spn" 
+        intervals [35]:
+            xmin = 10.29 
+            xmax = 10.47 
+            text = "spn" 
+        intervals [36]:
+            xmin = 10.47 
+            xmax = 10.92 
+            text = "spn" 
+        intervals [37]:
+            xmin = 10.92 
+            xmax = 11.08 
+            text = "spn" 
+        intervals [38]:
+            xmin = 11.08 
+            xmax = 11.36 
+            text = "spn" 
+        intervals [39]:
+            xmin = 11.36 
+            xmax = 11.89 
+            text = "spn" 
+        intervals [40]:
+            xmin = 11.89 
+            xmax = 12.21 
+            text = "spn" 
+        intervals [41]:
+            xmin = 12.21 
+            xmax = 13.05 
+            text = "" 
+        intervals [42]:
+            xmin = 13.05 
+            xmax = 13.22 
+            text = "spn" 
+        intervals [43]:
+            xmin = 13.22 
+            xmax = 13.71 
+            text = "spn" 
+        intervals [44]:
+            xmin = 13.71 
+            xmax = 14.1 
+            text = "spn" 
+        intervals [45]:
+            xmin = 14.1 
+            xmax = 14.61 
+            text = "spn" 
+        intervals [46]:
+            xmin = 14.61 
+            xmax = 15.06 
+            text = "spn" 
+        intervals [47]:
+            xmin = 15.06 
+            xmax = 15.47 
+            text = "spn" 
+        intervals [48]:
+            xmin = 15.47 
+            xmax = 15.68 
+            text = "spn" 
+        intervals [49]:
+            xmin = 15.68 
+            xmax = 16.11 
+            text = "spn" 
+        intervals [50]:
+            xmin = 16.11 
+            xmax = 16.48 
+            text = "" 
+        intervals [51]:
+            xmin = 16.48 
+            xmax = 16.57 
+            text = "spn" 
+        intervals [52]:
+            xmin = 16.57 
+            xmax = 16.74 
+            text = "spn" 
+        intervals [53]:
+            xmin = 16.74 
+            xmax = 18.07 
+            text = "spn" 
+        intervals [54]:
+            xmin = 18.07 
+            xmax = 18.17 
+            text = "" 
+        intervals [55]:
+            xmin = 18.17 
+            xmax = 18.83 
+            text = "spn" 
+        intervals [56]:
+            xmin = 18.83 
+            xmax = 19.1 
+            text = "spn" 
+        intervals [57]:
+            xmin = 19.1 
+            xmax = 19.24 
+            text = "spn" 
+        intervals [58]:
+            xmin = 19.24 
+            xmax = 19.35 
+            text = "spn" 
+        intervals [59]:
+            xmin = 19.35 
+            xmax = 20.25 
+            text = "spn" 
+        intervals [60]:
+            xmin = 20.25 
+            xmax = 20.55 
+            text = "spn" 
+        intervals [61]:
+            xmin = 20.55 
+            xmax = 21.66 
+            text = "spn" 
+        intervals [62]:
+            xmin = 21.66 
+            xmax = 21.84 
+            text = "spn" 
+        intervals [63]:
+            xmin = 21.84 
+            xmax = 22.08 
+            text = "spn" 
+        intervals [64]:
+            xmin = 22.08 
+            xmax = 22.18 
+            text = "spn" 
+        intervals [65]:
+            xmin = 22.18 
+            xmax = 22.37 
+            text = "spn" 
+        intervals [66]:
+            xmin = 22.37 
+            xmax = 22.63 
+            text = "spn" 
+        intervals [67]:
+            xmin = 22.63 
+            xmax = 23.19 
+            text = "" 
+        intervals [68]:
+            xmin = 23.19 
+            xmax = 23.37 
+            text = "spn" 
+        intervals [69]:
+            xmin = 23.37 
+            xmax = 23.53 
+            text = "spn" 
+        intervals [70]:
+            xmin = 23.53 
+            xmax = 24.35 
+            text = "spn" 
+        intervals [71]:
+            xmin = 24.35 
+            xmax = 24.54 
+            text = "spn" 
+        intervals [72]:
+            xmin = 24.54 
+            xmax = 24.99 
+            text = "spn" 
+        intervals [73]:
+            xmin = 24.99 
+            xmax = 25.15 
+            text = "spn" 
+        intervals [74]:
+            xmin = 25.15 
+            xmax = 25.86 
+            text = "spn" 
+        intervals [75]:
+            xmin = 25.86 
+            xmax = 26.61 
+            text = "spn" 
+        intervals [76]:
+            xmin = 26.61 
+            xmax = 26.86 
+            text = "spn" 
+        intervals [77]:
+            xmin = 26.86 
+            xmax = 27.2 
+            text = "" 
+        intervals [78]:
+            xmin = 27.2 
+            xmax = 27.37 
+            text = "spn" 
+        intervals [79]:
+            xmin = 27.37 
+            xmax = 28.05 
+            text = "spn" 
+        intervals [80]:
+            xmin = 28.05 
+            xmax = 28.28 
+            text = "spn" 
+        intervals [81]:
+            xmin = 28.28 
+            xmax = 28.647437 
+            text = "" 
